@@ -1,0 +1,55 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.front {
+    flex: 1;
+    color: #fff;
+}
+
+.image {
+    flex: 1;
+    width: 200px;
+    padding: 60px;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 50px;
+}
+
+.card {
+    flex: 1;
+    max-width: 200px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    padding: 50px;
+}
